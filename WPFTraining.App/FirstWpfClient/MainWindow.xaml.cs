@@ -47,7 +47,8 @@ namespace FirstWpfClient
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-
+            sampleData.Add(6);
+            sampleData.Add(7);
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
