@@ -1,0 +1,16 @@
+D:\Projects\WPFTraining.App\FirstWpfClient\bin\Debug\FirstWpfClient.exe.config
+D:\Projects\WPFTraining.App\FirstWpfClient\bin\Debug\FirstWpfClient.exe
+D:\Projects\WPFTraining.App\FirstWpfClient\bin\Debug\FirstWpfClient.pdb
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.csprojResolveAssemblyReference.cache
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\MainWindow.baml
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\MainWindow.g.cs
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\App.g.cs
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient_MarkupCompile.cache
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.g.resources
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.Properties.Resources.resources
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.csproj.GenerateResource.Cache
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.exe
+D:\Projects\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.pdb
+C:\VisualStudio\Projects\Rendani_WPF\WPFTraining.App\FirstWpfClient\bin\Debug\FirstWpfClient.exe.config
+C:\VisualStudio\Projects\Rendani_WPF\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.exe
+C:\VisualStudio\Projects\Rendani_WPF\WPFTraining.App\FirstWpfClient\obj\Debug\FirstWpfClient.pdb
