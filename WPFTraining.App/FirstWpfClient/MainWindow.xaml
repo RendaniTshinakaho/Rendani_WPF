@@ -10,11 +10,11 @@
             <ColumnDefinition Width="5*"/>
         </Grid.ColumnDefinitions>
         <DockPanel LastChildFill="False" Grid.ColumnSpan="3" Margin="10,0,0,68">
-            <ListBox Width="301" Margin="0,10,0,0" SelectionChanged="ListBox_SelectionChanged" ItemsSource="{Binding Path= SampleData}"/>
+            <ListBox Name="LstBox" Width="301" Margin="0,10,0,0" ItemsSource="{Binding Path= SampleData}"/>
         </DockPanel>
-        <Button Grid.ColumnSpan="3" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="9,270,0,0" Click="Button_Click_1"/>
-        <Button Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="19,270,0,0" Grid.Column="2" Click="Button_Click"/>
-        <Button Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.Column="2" Margin="110,270,0,0" Click="Button_Click_2"/>
+        <Button Name="BtnAdd" Grid.ColumnSpan="3" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="9,270,0,0" Click="BtnAdd_OnClick"/>
+        <Button Name="BtnEdit" Content="Edit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="19,270,0,0" Grid.Column="2" Click="BtnEdit_OnClick"/>
+        <Button Name="BtnDelete" Content="Delete" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Grid.Column="2" Margin="110,270,0,0" Click="BtnDelete_OnClick"/>
 
     </Grid>
 </Window>

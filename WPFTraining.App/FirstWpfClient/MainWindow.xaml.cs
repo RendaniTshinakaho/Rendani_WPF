@@ -40,25 +40,20 @@ namespace FirstWpfClient
             return sampleData;
         } }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
+        private void BtnDelete_OnClick(object sender, RoutedEventArgs e)
+        { 
+            sampleData.Remove(4);         
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void BtnAdd_OnClick(object sender, RoutedEventArgs e)
         {
             sampleData.Add(6);
             sampleData.Add(7);
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void BtnEdit_OnClick(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
+           
         }
     }
 }
